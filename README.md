@@ -1,5 +1,7 @@
 # Jenkins-Deployment-Pipeline-Tutorial
 
+**This tutorial was made to function within a google drive. They are currently being updated to work on Github**
+
 This is an overview and tutorial of [Jenkins](https://www.jenkins.io/). 
 
 
