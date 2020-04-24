@@ -15,3 +15,6 @@ Build on in the tutorials.
 
 The Tutorial contains step by step explanations of the Jenkins dashboard as well as basic functionalities. It also contains Step by step instructions
 on how to create a basic pipeline in Jenkins. 
+
+The Email Authentication is a guide used within the Tutorial. It helps users create an app password for their google accounts. This allows 
+Jenkins to use their google accounts to send notifications. 
